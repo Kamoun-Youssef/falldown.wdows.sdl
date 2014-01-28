@@ -1,0 +1,23 @@
+[Project]
+FileName=C:\Documents and Settings\rov\Bureau\fall\falldown.dev
+Name=falldown
+Use_gpp=1
+UnitCount=4
+ResFiles=C:\Documents and Settings\rov\Bureau\fall\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-C++\Lib\procvor.free.fr.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=--disable-shared --enable-static -lmingw32 -lSDLmain -lSDL -mwindows C:\Dev-C++\Lib\libSDL.a C:\Dev-C++\Lib\libSDLmain.a C:\Dev-C++\Lib\mixer.a
+[Unit1]
+FileName=C:\Documents and Settings\rov\Bureau\fall\fall.cpp
+FileTime=829658033
+[Unit2]
+FileName=C:\Documents and Settings\rov\Bureau\fall\down.cpp
+FileTime=829203100
+[Unit3]
+FileName=C:\Documents and Settings\rov\Bureau\fall\unrarlib\unrarlib.c
+FileTime=828798549
+[Unit4]
+FileName=C:\Documents and Settings\rov\Bureau\fall\fall.h
